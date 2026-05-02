@@ -144,8 +144,11 @@ Use the sample test data in [`docs/SETUP_GUIDE.md`](docs/SETUP_GUIDE.md#testing)
 4. Verify Master sheet shows **1 row** for `JJ-001` with all 3 form sections filled
 
 ---
+
 ![Master Sheet](master-sheet.png)
+
 ![Update Dialog](update-dialog.png)
+
 
 ## 🙋 About
 

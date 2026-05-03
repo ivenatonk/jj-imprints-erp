@@ -24,13 +24,11 @@ This ERP system replaces manual tracking spreadsheets with an automated, form-dr
 ## 🖼️ Screenshots
 
 ### Master Sheet — Panel + Colour-coded Headers
-![Master Sheet](docs/screenshots/master-sheet.png)
+![Master Sheet](master-sheet.png)
 
 ### Update Client Record — Popup Dialog
-![Update Dialog](docs/screenshots/update-dialog.png)
+![Update Dialog](update-dialog.png)
 
-### Enquiry Form Sheet
-![Enquiry Data](docs/screenshots/enquiry-data.png)
 
 > 📌 *Add your own screenshots in the `docs/screenshots/` folder after setup.*
 
@@ -143,11 +141,7 @@ Use the sample test data in [`docs/SETUP_GUIDE.md`](docs/SETUP_GUIDE.md#testing)
 3. Submit Expense Form with `CMID: JJ-001`
 4. Verify Master sheet shows **1 row** for `JJ-001` with all 3 form sections filled
 
----
-
-![Master Sheet](master-sheet.png)
-
-![Update Dialog](update-dialog.png)
+----
 
 
 ## 🙋 About
